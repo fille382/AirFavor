@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>381980645473-mc30akah3rq8k1ej5g0iif9l6f8m2b84.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.381980645473-mc30akah3rq8k1ej5g0iif9l6f8m2b84</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDdJR24Ouz8vrSY04nAYEXrRiqygiWtJ0Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>381980645473</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bellapp.AirFavorNextGen</string>
+	<key>PROJECT_ID</key>
+	<string>airfavortestdata</string>
+	<key>STORAGE_BUCKET</key>
+	<string>airfavortestdata.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:381980645473:ios:7f879e018bda9f6b</string>
+	<key>DATABASE_URL</key>
+	<string>https://airfavortestdata.firebaseio.com</string>
+</dict>
+</plist>
